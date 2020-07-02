@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace DanskeTechnicalTask
+namespace DanskeTechnicalTask.Main
 {
     public class Program
     {
