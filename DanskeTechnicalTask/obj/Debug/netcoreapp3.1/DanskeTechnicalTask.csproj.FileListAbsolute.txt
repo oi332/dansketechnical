@@ -1,0 +1,11 @@
+C:\Users\oiii332\source\repos\DanskeTechnicalTask\DanskeTechnicalTask\bin\Debug\netcoreapp3.1\DanskeTechnicalTask.exe
+C:\Users\oiii332\source\repos\DanskeTechnicalTask\DanskeTechnicalTask\bin\Debug\netcoreapp3.1\DanskeTechnicalTask.deps.json
+C:\Users\oiii332\source\repos\DanskeTechnicalTask\DanskeTechnicalTask\bin\Debug\netcoreapp3.1\DanskeTechnicalTask.runtimeconfig.json
+C:\Users\oiii332\source\repos\DanskeTechnicalTask\DanskeTechnicalTask\bin\Debug\netcoreapp3.1\DanskeTechnicalTask.runtimeconfig.dev.json
+C:\Users\oiii332\source\repos\DanskeTechnicalTask\DanskeTechnicalTask\bin\Debug\netcoreapp3.1\DanskeTechnicalTask.dll
+C:\Users\oiii332\source\repos\DanskeTechnicalTask\DanskeTechnicalTask\bin\Debug\netcoreapp3.1\DanskeTechnicalTask.pdb
+C:\Users\oiii332\source\repos\DanskeTechnicalTask\DanskeTechnicalTask\obj\Debug\netcoreapp3.1\DanskeTechnicalTask.csprojAssemblyReference.cache
+C:\Users\oiii332\source\repos\DanskeTechnicalTask\DanskeTechnicalTask\obj\Debug\netcoreapp3.1\DanskeTechnicalTask.AssemblyInfoInputs.cache
+C:\Users\oiii332\source\repos\DanskeTechnicalTask\DanskeTechnicalTask\obj\Debug\netcoreapp3.1\DanskeTechnicalTask.AssemblyInfo.cs
+C:\Users\oiii332\source\repos\DanskeTechnicalTask\DanskeTechnicalTask\obj\Debug\netcoreapp3.1\DanskeTechnicalTask.dll
+C:\Users\oiii332\source\repos\DanskeTechnicalTask\DanskeTechnicalTask\obj\Debug\netcoreapp3.1\DanskeTechnicalTask.pdb
